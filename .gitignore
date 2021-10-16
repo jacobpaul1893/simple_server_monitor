@@ -1,0 +1,4 @@
+# Ignoring data and cache files
+nohup.out
+__pycache__/
+data/
